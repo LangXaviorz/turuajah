@@ -88,11 +88,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '🧃 Putbotz\nwa.me/60147366955\n\n\nBy Put あ\n\n\nFollow IG: @whooputt\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.'
+global.packname = 'Lang Wangsaf\nwa.me/6289513044256\n\n\nBy Put あ\n\n\nFollow IG: @whooputt\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.'
 global.author = '۰ ⸼'
 
 // silakan di ganti klo mau
-global.botwm = `Putbotz 🧃`//UBAH JADI NAMAMU
+global.botwm = `Lang Wangsaf`//UBAH JADI NAMAMU
 global.botdate = `╭──────────═┅═─────────\n│◪ ${time}\n┊◪ ${week} ${date}\n╰──────────═┅═─────────`
 global.imagebot = `https://telegra.ph/file/793b6accf3758f092742a.jpg`
 global.logo = fs.readFileSync('./src/logo3.jpg')
